@@ -13,6 +13,10 @@ A friendly dropper which injects code into remote process and bypass AV.
 * Function Call Obfuscation
 * AV Bypasss 
 
+# Todo
+* Add support for encrypted shellcode
+* Decrypt shellcode at runtime
+
 # Resources
 * ![Sektor7 Malware Dev Essentials](https://institute.sektor7.net/red-team-operator-malware-development-essentials)
 * ![Lazy Maldev](https://captmeelo.com/redteam/maldev/2021/12/15/lazy-maldev.html)
