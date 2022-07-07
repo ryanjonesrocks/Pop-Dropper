@@ -3,7 +3,7 @@
 A friendly dropper which injects code into remote process and bypass AV.
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://www.google.com/url?sa=i&url=https%3A%2F
+[![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)]
 
 [![GitHub Build Status](https://github.com/AZSERG/LLOLBAS/workflows/build/badge.svg)](https://github.com/50ld13R80Y/Pop-Dropper/actions)
 
