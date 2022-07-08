@@ -9,6 +9,10 @@
 #include <tlhelp32.h>
 #include "lazy_importer.h"
 
+DWORD EncryptShellcode(char * shellcode) {
+	return 0;
+}
+
 DWORD MyGetProcessId(LPCTSTR ProcessName) // non-conflicting function name
 {
 	PROCESSENTRY32 pt;
