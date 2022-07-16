@@ -16,6 +16,7 @@ A friendly dropper which injects code into remote process and bypass AV.
 # Todo
 * Add support for encrypted shellcode
 * Decrypt shellcode at runtime
+* Add a guide on how to deploy dropper in windows enviornments
 
 # Resources
 * ![Sektor7 Malware Dev Essentials](https://institute.sektor7.net/red-team-operator-malware-development-essentials)
